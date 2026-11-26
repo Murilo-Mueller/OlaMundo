@@ -14,4 +14,3 @@ while True:
         print ("Jogador 2 ganhou")
         break
 
-#Testando alterar no repositório remoto
