@@ -13,3 +13,5 @@ while True:
     if jogador2 - jogador1 >= 2 and jogador2 >= 21:
         print ("Jogador 2 ganhou")
         break
+
+#Testando alterar no repositório remoto
